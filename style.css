@@ -7,13 +7,13 @@ body {
   line-height: 1.6;
 }
 
-/* Container */
+
 .container {
   width: 700px;
   margin: 40px auto;
 }
 
-/* Cards */
+
 .card-white {
   background: white;
   padding: 30px;
@@ -23,18 +23,18 @@ body {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Effet hover */
+
 .card-white:hover {
   transform: translateY(-5px);
   box-shadow: 0 15px 40px rgba(0,0,0,0.15);
 }
 
-/* Center */
+
 .text-center {
   text-align: center;
 }
 
-/* Image */
+
 .img-circle {
   width: 150px;
   border-radius: 50%;
@@ -42,7 +42,7 @@ body {
   margin-bottom: 15px;
 }
 
-/* Headers */
+
 h1 {
   font-size: 28px;
   margin-bottom: 10px;
@@ -53,7 +53,7 @@ h2 {
   font-size: 20px;
 }
 
-/* Bouton */
+
 .btn-blue {
   background: linear-gradient(135deg, #3498db, #6dd5fa);
   color: white;
@@ -69,13 +69,13 @@ h2 {
   transform: scale(1.05);
 }
 
-/* Liens */
+
 a {
   color: #3498db;
   text-decoration: none;
 }
 
-/* Réseaux */
+
 .list-inline {
   list-style: none;
   padding-left: 0;
@@ -86,7 +86,7 @@ a {
   padding: 10px;
 }
 
-/* Icônes */
+
 .list-inline i {
   font-size: 28px;
   color: #3498db;
